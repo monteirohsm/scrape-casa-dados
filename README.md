@@ -8,4 +8,4 @@
 6. Colar na variável "urls" no arquivo scrape.js
 7. Executar o comando "node scrape.js" no terminal do seu computador
 8. Aguardar fim da execução do script
-9. Pronto, o arquivo companies_sheet.csv estará disponível no diretório raiz do projeto
+9. Pronto! O arquivo companies_sheet.csv estará disponível no diretório raiz do projeto
