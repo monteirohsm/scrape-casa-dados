@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chromedriver": "^107.0.1",
+    "puppeteer": "^18.2.1",
+    "selenium-webdriver": "^4.5.0"
+  }
+}
